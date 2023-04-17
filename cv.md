@@ -30,7 +30,7 @@ B.S. in Computer Engineering
 
 ## Experience
 
-### Software Engineering Intern <links> · [Cert](https://github.com/mido3ds/cv/raw/master/certs/solectra.pdf) </links> <time> Jul - Sep 2020 </time>
+### Software Engineering Intern <links> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </links> <time> Jul - Sep 2020 </time>
 
 <location> Solectra LLC, ElGouna, Egypt </location>
 
@@ -49,7 +49,7 @@ B.S. in Computer Engineering
 
 - Social Media app for web and Android that mimics Reddit
 - Worked with a **team of 18**
-- Used Travis-CI for CI/CD, **GoogleCloud**, Docker, **DockerCompose**, and Datadog for monitoring.
+- Used Travis-CI for CI/CD, **GoogleCloud**, Docker, **DockerCompose**, and Datadog for monitoring
 
 ### Koos <links> · [Repo](https://gitlab.com/koos-project/koos) · [Rust Rewrite](https://gitlab.com/koos-project/koos/tree/rust-migration/server) </links> <time> Jun 2019 </time>
 

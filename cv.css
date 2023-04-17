@@ -17,6 +17,8 @@ body {
     display: block;
     padding-top: .2em;
     padding-bottom: .1em;
+    /* the letter M has some invisible left padding of ~3px */
+    margin-left: -3px;
     font-size: 3.9em;
     line-height: 100%;
     font-weight: lighter;
@@ -55,12 +57,14 @@ h3 {
     margin-top: .3em
 }
 
-p, ul {
+p,
+ul {
     font-size: 100%;
     margin: 0;
 }
 
-ul, ol {
+ul,
+ol {
     padding: 0 0 0 1.5rem;
     margin: 0;
 }
