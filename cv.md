@@ -42,10 +42,10 @@ B.S. in Computer Engineering
 
 ### Software Engineering Intern <links> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </links> <time> Jul - Sep 2020 </time>
 
-<location> Solectra LLC - ElGouna, Egypt </location>
+<location> Solectra - El Gouna, Egypt </location>
 
-- Worked on an **IoT** system that collects and analyses data from electric vehicles to report trips, total revenue, and energy
-- Improved performance and prediction correctness, and added various tests
+- Worked on an **embedded system** that collects and analyses data from electric vehicles to report trips, total revenue, and energy
+- Fixed several bugs, improved performance and prediction correctness, and added various tests
 
 ## Projects
 
