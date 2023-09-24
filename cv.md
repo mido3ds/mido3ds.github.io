@@ -30,15 +30,16 @@ B.S. in Computer Engineering
 
 ## Experience
 
-### C++ Software Engineer III <time> Jun 2021 - Mar 2022 </time>
+### C++ Software Engineer II <time> Jun 2021 - Mar 2022, Jun 2023 - Now </time>
 
-<location> [Atomica](https://atomica.ai) (360Imaging) - Dokki, Egypt </location>
+<location> [atomica.ai](https://atomica.ai) (360Imaging) - Dokki, Egypt </location>
 
-- Joined the internal-tooling team then the launcher team
+- Joined the internal-tooling team then the launcher team then the clients team
 - Contributed to the launcher app the main entry and **installer** of the whole suite of products
 - Built several internal C++ libraries and a GUI tool to work with **cloud data** for the flagship product
 - Built SQLite-**C++ boilerplate generators** to increase developers' productivity
 - Made several fixes and improvements to [mn](https://github.com/MoustaphaSaad/mn/commit/a5b44ee5bdae4e727534ebf660b6521d8f6a70da) and internal core libraries used across the company
+- Maintained the planner & segmentations apps' UI
 
 ### Software Engineering Intern <links> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </links> <time> Jul - Sep 2020 </time>
 
