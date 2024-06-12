@@ -24,28 +24,30 @@ B.S. in Computer Engineering
 
 ## Tools
 
-- **C**, **C++**, **Go**, **Python**, **Java**, Rust, JS/HTML/CSS
-- **Qt**, **QML**, ReactJS, ImGUI, OpenGL, Spring, Android
-- **Docker**, **CMake**, **SQLite**, git, MySQL, Linux
+- **C**, **C++**, Go, Python, Java, Rust
+- **Qt/QML**, React, Spring, Android
+- SQLite, Docker, Linux
 
 ## Experience
 
-### C++ Software Engineer II <time> Jun 2021 - Mar 2022, Jun 2023 - Now </time>
+### C++ Software Engineer <time> Jun 2021 - Mar 2022, Jun 2023 - Now </time>
 
-<location> [atomica.ai](https://atomica.ai) (360Imaging) - Dokki, Egypt </location>
+<location> [Atomica.ai](https://atomica.ai) (360Imaging) - Dokki, Egypt </location>
 
-- Joined the internal-tooling team then the launcher team then the clients team
-- Contributed to the launcher app the main entry and **installer** of the whole suite of products
-- Built several internal C++ libraries and a GUI tool to work with **cloud data** for the flagship product
-- Built SQLite-**C++ boilerplate generators** to increase developers' productivity
-- Made several fixes and improvements to [mn](https://github.com/MoustaphaSaad/mn/commit/a5b44ee5bdae4e727534ebf660b6521d8f6a70da) and internal core libraries used across the company
-- Maintained the planner & segmentations apps' UI
+- Currently developing frontend for new dental CAD application
+- Joined teams: [internal tooling, launcher, clients, new CAD]
+- Contributed to the launcher app, the **installer** of the whole suite of products
+- Developed multiple internal C++ libraries
+- Developed GUI tool to modify product **cloud data**
+- Developed SQLite-**C++ boilerplate generators**
+- Contributed to internal core libraries used across the company
+- Maintained frontend of planner & segmentations apps
 
 ### Software Engineering Intern <links> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </links> <time> Jul - Sep 2020 </time>
 
 <location> Solectra - El Gouna, Egypt </location>
 
-- Worked on an **embedded system** that collects and analyses data from electric vehicles to report trips, total revenue, and energy
+- Maintained an **embedded system** that collects and analyses data from electric vehicles to report trips, total revenue, and energy
 - Fixed several bugs, improved performance and prediction correctness, and added various tests
 
 ## Projects
@@ -56,9 +58,8 @@ Qt/QML/C++ app to install/update/launch main products and integrate with them
 
 ### Library Editor <time> Sep - Dec 2021 </time>
 
-- ImGUI/C++ internal tool to modify/upload versioned metadata and information
-- Used by the product managers to update domain-specific logic without new app release
-- With a bunch of CLI tools, generates boilerplate code to interface with the SQLite file it creates
+- C++ (+ImGui) internal tool to modify/upload versioned metadata and information
+- Helps product managers update domain-specific logic without new app release
 
 ### DPSX-Sync <time> Jun - Aug 2021 </time>
 
@@ -77,24 +78,21 @@ A [ysflight](https://ysflight.org/) flight simulator clone, for learning and fun
 
 ### Apex <links> · [Backend](https://www.github.com/DarkGeekMS/ApeX-Server) · [Frontend](http://www.github.com/DarkGeekMS/ApeX-Web) · [Android](http://www.github.com/DarkGeekMS/ApeX-Mobile) · [Testing](https://www.github.com/DarkGeekMS/apeXTesting) </links> <time> Jan - Mar 2019 </time>
 
-- Social Media app for web and Android that mimics Reddit
-- Worked with a **team of 18**
-- Used Travis-CI for CI/CD, **GoogleCloud**, Docker, **DockerCompose**, and Datadog for monitoring
+- Reddit clone, for web and android. Took role of **Devops** in team of 18
+- Used Travis-CI for CI/CD, **GoogleCloud**, **Docker**, DockerCompose, and Datadog for monitoring
 
 ### Koos <links> · [Repo](https://gitlab.com/koos-project/koos) · [Rust Rewrite](https://gitlab.com/koos-project/koos/tree/rust-migration/server) </links> <time> Jun 2019 </time>
 
 - Decentralized social media app, built on [Fluence](http://fluence.dev/). AssemblyScript/Rust for server, React for frontend
-- The project [won](https://www.linkedin.com/feed/update/urn:li:activity:6575339127934341120/) a [Gitcoin bounty](https://gitcoin.co/issue/fluencelabs/Bounties/1/3290) from Fluence for the best app that uses the technology
+- [Won](https://www.linkedin.com/feed/update/urn:li:activity:6575339127934341120/) a [Gitcoin bounty](https://gitcoin.co/issue/fluencelabs/Bounties/1/3290) for the best app that uses Fluence's technology
 
 ### Mini-Search-Engine <links> · [Repo](https://github.com/mido3ds/mini-search-engine/) </links> <time> Feb - Mar 2020 </time>
 
-- Regular and image search with trends detection
-- Java Spring + **ReactJS**
+Text and image search with trends detection. Used Java Spring and **React**
 
 ### Match Reservation System <links> · [Repo](https://github.com/mido3ds/match-reservation-system) </links> <time> Jan - Feb 2021 </time>
 
-- Web application for Egyptian Premier League. Reserve your seat on future matches
-- **MongoDB + Node.js** + ReactJS
+Web application for Egyptian Premier League for seats reservation. Used **MongoDB, Nodejs** and React
 
 ### NesEmu <links> · [Repo](https://github.com/mido3ds/nesemu) </links> <time> 2019 - Present </time>
 
