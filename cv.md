@@ -32,10 +32,10 @@ B.S. in Computer Engineering
 
 ### C++ Software Engineer <time> Jun 2021 - Mar 2022, Jun 2023 - Now </time>
 
-<location> [Atomica.ai](https://atomica.ai) (360Imaging) - Dokki, Egypt </location>
+<location> [Atomica.ai](https://atomica.ai) (360Imaging) - Giza, Egypt </location>
 
-- Currently developing frontend for new dental CAD application
-- Joined teams: [internal tooling, launcher, clients, new CAD]
+- Currently **team leader** for general-cad dental application
+- Joined teams: [internal tooling, launcher, clients, general-cad]
 - Contributed to the launcher app, the **installer** of the whole suite of products
 - Developed multiple internal C++ libraries
 - Developed GUI tool to modify product **cloud data**
