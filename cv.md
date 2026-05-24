@@ -34,7 +34,7 @@ B.S. in Computer Engineering
 
 <location> [Atomica.ai](https://atomica.ai) (360Imaging) - Giza, Egypt </location>
 
-- Currently **team leader** for general-cad dental application
+- **Team leader** for general-cad dental application
 - Joined teams: [internal tooling, launcher, clients, general-cad]
 - Contributed to the launcher app, the **installer** of the whole suite of products
 - Developed multiple internal C++ libraries
