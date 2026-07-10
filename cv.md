@@ -60,7 +60,7 @@ Qt/QML/C++ app to install/update/launch main products and integrate with them
 
 C++ (+ImGui) internal tool to modify/upload versioned metadata and information. Helps product managers update domain-specific logic without new app release.
 
-### DPSX-Sync <spac class="time"> Jun - Aug 2021 </span>
+### DPSX-Sync <span class="time"> Jun - Aug 2021 </span>
 
 - Qt/QML/C++ experimental Dropbox-like app to add sync and collaboration features
 - Uses libgit and Gitea server for versioning and synchronization
@@ -93,26 +93,26 @@ NES console **emulator** in C++. Hobby project.
 
 Web application for Egyptian Premier League for seats reservation. Used **MongoDB, Nodejs** and React
 
-### Mini-Search-Engine <links> · [Repo](https://github.com/mido3ds/mini-search-engine/) </links> <spac class="time"> Feb - Mar 2020 </span>
+### Mini-Search-Engine <span class="links"> · [Repo](https://github.com/mido3ds/mini-search-engine/) </span> <span class="time"> Feb - Mar 2020 </span>
 
 Text and image search with trends detection. Used Java Spring and **React**
 
-### Cartoonization <links> · [Repo](http://github.com/Abdulrahman-Khalid/Cartoonization/) </links> <spac class="time"> Oct - Dec 2019 </span>
+### Cartoonization <span class="links"> · [Repo](http://github.com/Abdulrahman-Khalid/Cartoonization/) </span> <span class="time"> Oct - Dec 2019 </span>
 
 - Snapchat Clone written in Python draws stickers on live recordings of faces
 - Implemented GUI, rendering stickers, and HOG algorithm
 - Used Viola-jones/Hog to detect faces, and multiple **image processing** techniques to filter the input
 
-### RetroSoccer <links> · [Repo](https://github.com/mido3ds/retrosoccer) </links> <spac class="time"> Jan - Mar 2019 </span>
+### RetroSoccer <span class="links"> · [Repo](https://github.com/mido3ds/retrosoccer) </span> <span class="time"> Jan - Mar 2019 </span>
 
 Multiplayer soccer game entirely in x86 IA32 MASM assembly with chat (serial communication)
 
-### Simple PDP--11 <links> · [Repo](https://github.com/mido3ds/simple-pdp11) </links> <spac class="time"> Oct - Dec 2019 </span>
+### Simple PDP--11 <span class="links"> · [Repo](https://github.com/mido3ds/simple-pdp11) </span> <span class="time"> Oct - Dec 2019 </span>
 
 - Design and simulation of a CPU architecture similar to *PDP--11* in VHDL and Vunit for test benches
 - Designed and implemented automated tests for the CPU
 
-### TheMistake <links> · [Repo](https://www.github.com/Abdulrahman-Khalid/mazeSolver) </links> <spac class="time"> Jan - Mar 2019 </span>
+### TheMistake <span class="links"> · [Repo](https://www.github.com/Abdulrahman-Khalid/mazeSolver) </span> <span class="time"> Jan - Mar 2019 </span>
 
 - Maze solver car using flood fill algorithm on [TIVA-C μc](http://www.ti.com/tool/EK-TM4C123GXL)/Arduino-Uno with ultrasonic and IR sensors
 - Implemented maze-solving and tested it
