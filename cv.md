@@ -82,7 +82,7 @@ A [ysflight](https://ysflight.org/) flight simulator clone, to explore game engi
 
 ### NesEmu <span class="links"> · [Repo](https://github.com/mido3ds/nesemu) </span> <span class="time"> 2019 - Present </span>
 
-NES console **emulator** in C++. Hobby project.
+NES emulator in C++ implementing a 6502 CPU with full instruction set, iNES ROM loading, PPU with native NES palette and pattern table rendering, and an ImGui debugger featuring memory inspection, live disassembly, and tile/palette viewers. Built with SFML.
 
 ### Koos <span class="links"> · [Repo](https://gitlab.com/koos-project/koos) · [Rust Rewrite](https://gitlab.com/koos-project/koos/tree/rust-migration/server) </span> <span class="time"> Jun 2019 </span>
 
