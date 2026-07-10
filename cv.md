@@ -36,7 +36,7 @@ B.S. in Computer Engineering
 
 <span class="location"> [Atomica.ai](https://atomica.ai) (360Imaging) - Giza, Egypt </span>
 
-- Led the general-cad dental application team, made releases and scheduled new features
+- Led the general-cad-app team — prioritized feature work, coordinated cross-team efforts, and drove releases across multiple product cycles
 - Maintained the frontend of dental implant planning and teeth segmentation applications, handling cross-team feature integration and bug fixes
 - Built an ImGui/SQLite Library Editor enabling product managers to update dental catalog data (implants, abutments, materials) and release to AWS — eliminating app releases for data changes
 - Created a SQLite-to-C++ code generator (ldb2cpp) producing type-safe database bindings, cutting boilerplate across multiple internal projects
