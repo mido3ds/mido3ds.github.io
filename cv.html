@@ -13,6 +13,12 @@ src="icons/linkedin.svg" alt="linkedin" /> <a
 href="https://www.linkedin.com/in/mahmoud-adas">mahmoud-adas</a></p>
 </span>
 
+<h2 id="about-me">About Me</h2>
+<p>C++ software engineer with 4 years building desktop dental CAD
+applications at Atomica.ai. Led the general-cad team and built internal
+tooling (SQLite code generation, library editor, CI pipelines). Strong
+Qt/QML skills, with side interests in emulation, network protocols, and
+flight simulation.</p>
 <h2 id="education">Education</h2>
 <h3
 id="cairo-university-faculty-of-engineering---egypt---sep-2015---jul-2021-">Cairo
@@ -21,7 +27,7 @@ Sep 2015 - Jul 2021 </time></h3>
 <p>B.S. in Computer Engineering</p>
 <h2 id="tools">Tools</h2>
 <ul>
-<li><strong>C</strong>, <strong>C++</strong>, Go, Python, Java,
+<li><strong>C++</strong>, <strong>C</strong>, Go, Python, Java,
 Rust</li>
 <li><strong>Qt/QML</strong>, React, Spring, Android</li>
 <li>SQLite, Docker, Linux</li>
@@ -33,17 +39,25 @@ Software Engineer <time> Jun 2021 - Mar 2022, Jun 2023 - Now
 <p><location> <a href="https://atomica.ai">Atomica.ai</a> (360Imaging) -
 Giza, Egypt </location></p>
 <ul>
-<li><strong>Team leader</strong> for general-cad dental application</li>
-<li>Joined teams: [internal tooling, launcher, clients,
-general-cad]</li>
-<li>Contributed to the launcher app, the <strong>installer</strong> of
-the whole suite of products</li>
-<li>Developed multiple internal C++ libraries</li>
-<li>Developed GUI tool to modify product <strong>cloud
-data</strong></li>
-<li>Developed SQLite-<strong>C++ boilerplate generators</strong></li>
-<li>Contributed to internal core libraries used across the company</li>
-<li>Maintained frontend of planner &amp; segmentations apps</li>
+<li>Led the general-cad dental application team</li>
+<li>Maintained the frontend of dental implant planning and teeth
+segmentation applications, handling cross-team feature integration and
+bug fixes</li>
+<li>Developed an experimental Qt/QML launcher using libgit for file
+synchronization and a custom version-tracking file format — some
+components were later adopted by the main product suite</li>
+<li>Built an ImGui/SQLite Library Editor enabling product managers to
+update dental catalog data (implants, abutments, materials) and release
+to AWS — eliminating app releases for data changes</li>
+<li>Contributed to the company's core C++ libraries (mn utility library,
+ndcore SDK) used across all product applications</li>
+<li>Built internal C++ tooling including ldb2cpp (SQLite-to-C++ code
+generator), Library Editor (data authoring tool), and CI/test
+infrastructure — designed to be the standard approach for database
+workflows</li>
+<li>Created a SQLite-to-C++ code generator (ldb2cpp) producing type-safe
+database bindings, cutting boilerplate across multiple internal
+projects</li>
 </ul>
 <h3 id="software-engineering-intern---cert---jul---sep-2020-">Software
 Engineering Intern <links> · <a
@@ -54,8 +68,8 @@ href="https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf
 <li>Maintained an <strong>embedded system</strong> that collects and
 analyses data from electric vehicles to report trips, total revenue, and
 energy</li>
-<li>Fixed several bugs, improved performance and prediction correctness,
-and added various tests</li>
+<li>Fixed embedded system bugs and improved EV trip/revenue prediction
+accuracy through data analysis and additional test coverage</li>
 </ul>
 <h2 id="projects">Projects</h2>
 <h3 id="360launcher--jan---mar-2022-">360Launcher <time> Jan - Mar 2022
@@ -64,19 +78,9 @@ and added various tests</li>
 with them</p>
 <h3 id="library-editor--sep---dec-2021-">Library Editor <time> Sep - Dec
 2021 </time></h3>
-<ul>
-<li>C++ (+ImGui) internal tool to modify/upload versioned metadata and
-information</li>
-<li>Helps product managers update domain-specific logic without new app
-release</li>
-</ul>
-<h3 id="dpsx-sync--jun---aug-2021-">DPSX-Sync <time> Jun - Aug 2021
-</time></h3>
-<ul>
-<li>Qt/QML/C++ experimental Dropbox-like app to add sync and
-collaboration features</li>
-<li>Uses libgit and Gitea server for versioning and synchronization</li>
-</ul>
+<p>C++ (+ImGui) internal tool to modify/upload versioned metadata and
+information. Helps product managers update domain-specific logic without
+new app release.</p>
 <h3 id="c4ian-graduation-project---repo---feb---jul-2021-">C4IAN
 <em>(Graduation Project)</em> <links> · <a
 href="https://www.github.com/mido3ds/C4IAN">Repo</a> </links> <time> Feb
@@ -93,7 +97,7 @@ href="https://www.github.com/mido3ds/OpenYSF">Repo</a> </links> <time>
 Nov 2021 - Present </time></h3>
 <p>A <a href="https://ysflight.org/">ysflight</a> flight simulator
 clone, for learning and fun. Backward compatible with ysflight
-assets</p>
+assets.</p>
 <h3
 id="apex---backend--frontend--android--testing---jan---mar-2019-">Apex
 <links> · <a
@@ -108,6 +112,10 @@ href="https://www.github.com/DarkGeekMS/apeXTesting">Testing</a>
 <li>Used Travis-CI for CI/CD, <strong>GoogleCloud</strong>,
 <strong>Docker</strong>, DockerCompose, and Datadog for monitoring</li>
 </ul>
+<h3 id="nesemu---repo---2019---present-">NesEmu <links> · <a
+href="https://github.com/mido3ds/nesemu">Repo</a> </links> <time> 2019 -
+Present </time></h3>
+<p>NES console <strong>emulator</strong> in C++. Hobby project.</p>
 <h3 id="koos---repo--rust-rewrite---jun-2019-">Koos <links> · <a
 href="https://gitlab.com/koos-project/koos">Repo</a> · <a
 href="https://gitlab.com/koos-project/koos/tree/rust-migration/server">Rust
@@ -121,65 +129,9 @@ href="https://www.linkedin.com/feed/update/urn:li:activity:6575339127934341120/"
 a <a href="https://gitcoin.co/issue/fluencelabs/Bounties/1/3290">Gitcoin
 bounty</a> for the best app that uses Fluence's technology</li>
 </ul>
-<h3 id="mini-search-engine---repo---feb---mar-2020-">Mini-Search-Engine
-<links> · <a
-href="https://github.com/mido3ds/mini-search-engine/">Repo</a> </links>
-<time> Feb - Mar 2020 </time></h3>
-<p>Text and image search with trends detection. Used Java Spring and
-<strong>React</strong></p>
 <h3 id="match-reservation-system---repo---jan---feb-2021-">Match
 Reservation System <links> · <a
 href="https://github.com/mido3ds/match-reservation-system">Repo</a>
 </links> <time> Jan - Feb 2021 </time></h3>
 <p>Web application for Egyptian Premier League for seats reservation.
 Used <strong>MongoDB, Nodejs</strong> and React</p>
-<h3 id="nesemu---repo---2019---present-">NesEmu <links> · <a
-href="https://github.com/mido3ds/nesemu">Repo</a> </links> <time> 2019 -
-Present </time></h3>
-<p>NES console <strong>emulator</strong> in C++. Hobby project</p>
-<h3 id="cartoonization---repo---oct---dec-2019-">Cartoonization <links>
-· <a
-href="http://github.com/Abdulrahman-Khalid/Cartoonization/">Repo</a>
-</links> <time> Oct - Dec 2019 </time></h3>
-<ul>
-<li>Snapchat Clone written in Python draws stickers on live recordings
-of faces</li>
-<li>Implemented GUI, rendering stickers, and HOG algorithm</li>
-<li>Used Viola-jones/Hog to detect faces, and multiple <strong>image
-processing</strong> techniques to filter the input</li>
-</ul>
-<h3 id="retrosoccer---repo---jan---mar-2019-">RetroSoccer <links> · <a
-href="https://github.com/mido3ds/retrosoccer">Repo</a> </links> <time>
-Jan - Mar 2019 </time></h3>
-<p>Multiplayer soccer game entirely in x86 IA32 MASM assembly with chat
-(serial communication)</p>
-<h3 id="simple-pdp--11---repo---oct---dec-2019-">Simple PDP--11 <links>
-· <a href="https://github.com/mido3ds/simple-pdp11">Repo</a> </links>
-<time> Oct - Dec 2019 </time></h3>
-<ul>
-<li>Design and simulation of a CPU architecture similar to
-<em>PDP--11</em> in VHDL and Vunit for test benches</li>
-<li>Designed and implemented automated tests for the CPU</li>
-</ul>
-<h3 id="themistake---repo---jan---mar-2019-">TheMistake <links> · <a
-href="https://www.github.com/Abdulrahman-Khalid/mazeSolver">Repo</a>
-</links> <time> Jan - Mar 2019 </time></h3>
-<ul>
-<li>Maze solver car using flood fill algorithm on <a
-href="http://www.ti.com/tool/EK-TM4C123GXL">TIVA-C μc</a>/Arduino-Uno
-with ultrasonic and IR sensors</li>
-<li>Implemented maze-solving and tested it</li>
-</ul>
-<h3 id="paint-for-kids---repo---jan---mar-2017-">Paint-For-Kids <links>
-· <a href="https://github.com/mido3ds/paint-for-kids">Repo</a> </links>
-<time> Jan - Mar 2017 </time></h3>
-<p>C++ GUI application for kids to draw and play with shapes, with two
-game modes. OOP school project</p>
-<h3 id="outbreak---repo---jun-2018-">Outbreak <links> · <a
-href="https://github.com/mido3ds/Outbreak">Repo</a> </links> <time> Jun
-2018 </time></h3>
-<p>Java/libgdx clone of the classic game "Outbreak"</p>
-<h3 id="inventoryapp---repo---jun-2018-">InventoryApp <links> · <a
-href="https://github.com/mido3ds/InventoryApp">Repo</a> </links> <time>
-Jun 2018 </time></h3>
-<p>Android CRUD app to keep track of inventory items in a store</p>

@@ -16,6 +16,10 @@
 
 </span>
 
+## About Me
+
+C++ software engineer with 4 years building desktop dental CAD applications at Atomica.ai. Led the general-cad team and built internal tooling (SQLite code generation, library editor, CI pipelines). Strong Qt/QML skills, with side interests in emulation, network protocols, and flight simulation.
+
 ## Education
 
 ### Cairo University, Faculty of Engineering | <location> Egypt </location> <time> Sep 2015 - Jul 2021 </time>
@@ -24,7 +28,7 @@ B.S. in Computer Engineering
 
 ## Tools
 
-- **C**, **C++**, Go, Python, Java, Rust
+- **C++**, **C**, Go, Python, Java, Rust
 - **Qt/QML**, React, Spring, Android
 - SQLite, Docker, Linux
 
@@ -34,21 +38,20 @@ B.S. in Computer Engineering
 
 <location> [Atomica.ai](https://atomica.ai) (360Imaging) - Giza, Egypt </location>
 
-- **Team leader** for general-cad dental application
-- Joined teams: [internal tooling, launcher, clients, general-cad]
-- Contributed to the launcher app, the **installer** of the whole suite of products
-- Developed multiple internal C++ libraries
-- Developed GUI tool to modify product **cloud data**
-- Developed SQLite-**C++ boilerplate generators**
-- Contributed to internal core libraries used across the company
-- Maintained frontend of planner & segmentations apps
+- Led the general-cad dental application team
+- Maintained the frontend of dental implant planning and teeth segmentation applications, handling cross-team feature integration and bug fixes
+- Developed an experimental Qt/QML launcher using libgit for file synchronization and a custom version-tracking file format — some components were later adopted by the main product suite
+- Built an ImGui/SQLite Library Editor enabling product managers to update dental catalog data (implants, abutments, materials) and release to AWS — eliminating app releases for data changes
+- Contributed to the company's core C++ libraries (mn utility library, ndcore SDK) used across all product applications
+- Built internal C++ tooling including ldb2cpp (SQLite-to-C++ code generator), Library Editor (data authoring tool), and CI/test infrastructure — designed to be the standard approach for database workflows
+- Created a SQLite-to-C++ code generator (ldb2cpp) producing type-safe database bindings, cutting boilerplate across multiple internal projects
 
 ### Software Engineering Intern <links> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </links> <time> Jul - Sep 2020 </time>
 
 <location> Solectra - El Gouna, Egypt </location>
 
 - Maintained an **embedded system** that collects and analyses data from electric vehicles to report trips, total revenue, and energy
-- Fixed several bugs, improved performance and prediction correctness, and added various tests
+- Fixed embedded system bugs and improved EV trip/revenue prediction accuracy through data analysis and additional test coverage
 
 ## Projects
 
@@ -58,13 +61,7 @@ Qt/QML/C++ app to install/update/launch main products and integrate with them
 
 ### Library Editor <time> Sep - Dec 2021 </time>
 
-- C++ (+ImGui) internal tool to modify/upload versioned metadata and information
-- Helps product managers update domain-specific logic without new app release
-
-### DPSX-Sync <time> Jun - Aug 2021 </time>
-
-- Qt/QML/C++ experimental Dropbox-like app to add sync and collaboration features
-- Uses libgit and Gitea server for versioning and synchronization
+C++ (+ImGui) internal tool to modify/upload versioned metadata and information. Helps product managers update domain-specific logic without new app release.
 
 ### C4IAN *(Graduation Project)* <links> · [Repo](https://www.github.com/mido3ds/C4IAN) </links> <time> Feb - Jul 2021 </time>
 
@@ -74,58 +71,22 @@ Qt/QML/C++ app to install/update/launch main products and integrate with them
 
 ### OpenYSF <links> · [Repo](https://www.github.com/mido3ds/OpenYSF) </links> <time> Nov 2021 - Present </time>
 
-A [ysflight](https://ysflight.org/) flight simulator clone, for learning and fun. Backward compatible with ysflight assets
+A [ysflight](https://ysflight.org/) flight simulator clone, for learning and fun. Backward compatible with ysflight assets.
 
 ### Apex <links> · [Backend](https://www.github.com/DarkGeekMS/ApeX-Server) · [Frontend](http://www.github.com/DarkGeekMS/ApeX-Web) · [Android](http://www.github.com/DarkGeekMS/ApeX-Mobile) · [Testing](https://www.github.com/DarkGeekMS/apeXTesting) </links> <time> Jan - Mar 2019 </time>
 
 - Reddit clone, for web and android. Took role of **Devops** in team of 18
 - Used Travis-CI for CI/CD, **GoogleCloud**, **Docker**, DockerCompose, and Datadog for monitoring
 
+### NesEmu <links> · [Repo](https://github.com/mido3ds/nesemu) </links> <time> 2019 - Present </time>
+
+NES console **emulator** in C++. Hobby project.
+
 ### Koos <links> · [Repo](https://gitlab.com/koos-project/koos) · [Rust Rewrite](https://gitlab.com/koos-project/koos/tree/rust-migration/server) </links> <time> Jun 2019 </time>
 
 - Decentralized social media app, built on [Fluence](http://fluence.dev/). AssemblyScript/Rust for server, React for frontend
 - [Won](https://www.linkedin.com/feed/update/urn:li:activity:6575339127934341120/) a [Gitcoin bounty](https://gitcoin.co/issue/fluencelabs/Bounties/1/3290) for the best app that uses Fluence's technology
 
-### Mini-Search-Engine <links> · [Repo](https://github.com/mido3ds/mini-search-engine/) </links> <time> Feb - Mar 2020 </time>
-
-Text and image search with trends detection. Used Java Spring and **React**
-
 ### Match Reservation System <links> · [Repo](https://github.com/mido3ds/match-reservation-system) </links> <time> Jan - Feb 2021 </time>
 
 Web application for Egyptian Premier League for seats reservation. Used **MongoDB, Nodejs** and React
-
-### NesEmu <links> · [Repo](https://github.com/mido3ds/nesemu) </links> <time> 2019 - Present </time>
-
-NES console **emulator** in C++. Hobby project
-
-### Cartoonization <links> · [Repo](http://github.com/Abdulrahman-Khalid/Cartoonization/) </links> <time> Oct - Dec 2019 </time>
-
-- Snapchat Clone written in Python draws stickers on live recordings of faces
-- Implemented GUI, rendering stickers, and HOG algorithm
-- Used Viola-jones/Hog to detect faces, and multiple **image processing** techniques to filter the input
-
-### RetroSoccer <links> · [Repo](https://github.com/mido3ds/retrosoccer) </links> <time> Jan - Mar 2019 </time>
-
-Multiplayer soccer game entirely in x86 IA32 MASM assembly with chat (serial communication)
-
-### Simple PDP--11 <links> · [Repo](https://github.com/mido3ds/simple-pdp11) </links> <time> Oct - Dec 2019 </time>
-
-- Design and simulation of a CPU architecture similar to *PDP--11* in VHDL and Vunit for test benches
-- Designed and implemented automated tests for the CPU
-
-### TheMistake <links> · [Repo](https://www.github.com/Abdulrahman-Khalid/mazeSolver) </links> <time> Jan - Mar 2019 </time>
-
-- Maze solver car using flood fill algorithm on [TIVA-C μc](http://www.ti.com/tool/EK-TM4C123GXL)/Arduino-Uno with ultrasonic and IR sensors
-- Implemented maze-solving and tested it
-
-### Paint-For-Kids <links> · [Repo](https://github.com/mido3ds/paint-for-kids) </links> <time> Jan - Mar 2017 </time>
-
-C++ GUI application for kids to draw and play with shapes, with two game modes. OOP school project
-
-### Outbreak <links> · [Repo](https://github.com/mido3ds/Outbreak) </links> <time> Jun 2018 </time>
-
-Java/libgdx clone of the classic game "Outbreak"
-
-### InventoryApp <links> · [Repo](https://github.com/mido3ds/InventoryApp) </links> <time> Jun 2018 </time>
-
-Android CRUD app to keep track of inventory items in a store
