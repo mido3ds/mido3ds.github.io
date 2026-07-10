@@ -41,7 +41,6 @@ B.S. in Computer Engineering
 - Built an ImGui/SQLite Library Editor enabling product managers to update dental catalog data (implants, abutments, materials) and release to AWS — eliminating app releases for data changes
 - Created a SQLite-to-C++ code generator (ldb2cpp) producing type-safe database bindings, cutting boilerplate across multiple internal projects
 - Contributed to the company's core C++ libraries (mn utility library, ndcore SDK) used across all product applications
-- Developed an experimental Qt/QML launcher using libgit for file synchronization and a custom version-tracking file format — some components were later adopted by the main product suite
 
 ### Software Engineering Intern <span class="links"> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </span> <span class="time"> Jul - Sep 2020 </span>
 
@@ -55,10 +54,6 @@ B.S. in Computer Engineering
 ### 360Launcher <span class="time"> Jan - Mar 2022 </span>
 
 Qt/QML/C++ app to install/update/launch main products and integrate with them
-
-### Library Editor <span class="time"> Sep - Dec 2021 </span>
-
-C++ (+ImGui) internal tool to modify/upload versioned metadata and information. Helps product managers update domain-specific logic without new app release.
 
 ### DPSX-Sync <span class="time"> Jun - Aug 2021 </span>
 
