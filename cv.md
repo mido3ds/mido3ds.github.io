@@ -16,7 +16,7 @@
 
 ## About Me
 
-C++ software engineer with 4 years building desktop dental CAD applications at Atomica.ai. Led the general-cad team and built internal tooling (SQLite code generation, library editor, launcher). Strong Qt/QML skills, with side interests in emulation, network protocols, and flight simulation.
+C++ software engineer with 4 years building desktop applications. Led the CAD team and built internal tooling. Strong Qt/QML skills, with side interests in emulation, network protocols, and flight simulation.
 
 ## Education
 
@@ -36,9 +36,9 @@ B.S. in Computer Engineering
 
 <span class="location"> [Atomica.ai](https://atomica.ai) (360Imaging) - Giza, Egypt </span>
 
-- Led the general-cad-app team — prioritized feature work, coordinated cross-team efforts, and drove releases across multiple product cycles
+- Led the general-cad-app team - prioritized feature work, coordinated cross-team efforts, and drove releases across multiple product cycles
 - Maintained the frontend of dental implant planning and teeth segmentation applications, handling cross-team feature integration and bug fixes
-- Built an ImGui/SQLite Library Editor enabling product managers to update dental catalog data (implants, abutments, materials) and release to AWS — eliminating app releases for data changes
+- Built an ImGui/SQLite Library Editor enabling product managers to update dental catalog data (implants, abutments, materials) and release to AWS - eliminating app releases for data changes
 - Created a SQLite-to-C++ code generator (ldb2cpp) producing type-safe database bindings, cutting boilerplate across multiple internal projects
 - Contributed to the company's core C++ libraries (mn utility library, ndcore SDK) used across all product applications
 
