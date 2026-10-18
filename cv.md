@@ -16,7 +16,7 @@
 
 ## About Me
 
-C++ software engineer with 4 years building desktop applications. Led the CAD team and built internal tooling. Strong Qt/QML skills, with side interests in emulation, network protocols, and flight simulation.
+C++ SWE with 4 years building desktop apps in Qt/QML, most recently leading the general-CAD team at Atomica.ai. I also wrote some of the internal tools. On my own time I write a NES emulator and a flight-sim clone.
 
 ## Education
 
@@ -36,18 +36,18 @@ B.S. in Computer Engineering
 
 <span class="location"> [Atomica.ai](https://atomica.ai) (360Imaging) - Giza, Egypt </span>
 
-- Led the general-cad-app team - prioritized feature work, coordinated cross-team efforts, and drove releases across multiple product cycles
-- Maintained the frontend of dental implant planning and teeth segmentation applications, handling cross-team feature integration and bug fixes
-- Built an ImGui/SQLite Library Editor enabling product managers to update dental catalog data (implants, abutments, materials) and release to AWS - eliminating app releases for data changes
-- Created a SQLite-to-C++ code generator (ldb2cpp) producing type-safe database bindings, cutting boilerplate across multiple internal projects
-- Contributed to the company's core C++ libraries (mn utility library, ndcore SDK) used across all product applications
+- Led the general-CAD team: set priorities, scheduled features, and shipped releases
+- Maintained the Qt/QML frontend of the implant-planning and teeth-segmentation apps, integrating features from other teams and fixing bugs
+- Built an ImGui/SQLite Library Editor so product managers could edit dental catalog data (implants, abutments, materials) and push it to AWS - catalog updates no longer needed an app release
+- Wrote ldb2cpp, a SQLite-to-C++ generator for type-safe bindings; other internal projects adopted it
+- Contributed to mn and ndcore, the shared C++ libraries behind every company product
 
 ### Software Engineering Intern <span class="links"> · [Cert](https://github.com/mido3ds/mido3ds.github.io/raw/master/certs/solectra.pdf) </span> <span class="time"> Jul - Sep 2020 </span>
 
 <span class="location"> Solectra - El Gouna, Egypt </span>
 
 - Maintained an **embedded system** that collects and analyses data from electric vehicles to report trips, total revenue, and energy
-- Fixed embedded system bugs and improved EV trip/revenue prediction accuracy through data analysis and additional test coverage
+- Fixed bugs in the embedded telemetry system, improved trip/revenue prediction accuracy, and added tests
 
 ## Projects
 
@@ -68,7 +68,7 @@ Qt/QML/C++ app to install/update/launch main products and integrate with them
 
 ### OpenYSF <span class="links"> · [Repo](https://www.github.com/mido3ds/OpenYSF) </span> <span class="time"> Nov 2021 - Present </span>
 
-A [ysflight](https://ysflight.org/) flight simulator clone, to explore game engine architectures. Backward compatible with ysflight assets.
+A [ysflight](https://ysflight.org/) flight simulator clone, backward compatible with existing ysflight game assets.
 
 ### Apex <span class="links"> · [Backend](https://www.github.com/DarkGeekMS/ApeX-Server) · [Frontend](http://www.github.com/DarkGeekMS/ApeX-Web) · [Android](http://www.github.com/DarkGeekMS/ApeX-Mobile) · [Testing](https://www.github.com/DarkGeekMS/apeXTesting) </span> <span class="time"> Jan - Mar 2019 </span>
 
@@ -77,7 +77,8 @@ A [ysflight](https://ysflight.org/) flight simulator clone, to explore game engi
 
 ### NesEmu <span class="links"> · [Repo](https://github.com/mido3ds/nesemu) </span> <span class="time"> 2019 - Present </span>
 
-NES emulator in C++ implementing a 6502 CPU with full instruction set, iNES ROM loading, PPU with native NES palette and pattern table rendering, and an ImGui debugger featuring memory inspection, live disassembly, and tile/palette viewers. Built with SFML.
+- NES emulator in C++: 6502 CPU (full instruction set), PPU, iNES ROM loading
+- ImGui debugger with memory inspection, live disassembly, and tile/palette viewers. Built on SFML.
 
 ### Koos <span class="links"> · [Repo](https://gitlab.com/koos-project/koos) · [Rust Rewrite](https://gitlab.com/koos-project/koos/tree/rust-migration/server) </span> <span class="time"> Jun 2019 </span>
 
